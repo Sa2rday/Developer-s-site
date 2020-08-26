@@ -43,7 +43,7 @@ body {
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  padding-top: 250px;
 }
 
 .hero-image {
@@ -191,4 +191,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.padding-top-for-h3 {
+  padding-top: 20px;
 }
